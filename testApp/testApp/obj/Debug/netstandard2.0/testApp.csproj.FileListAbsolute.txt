@@ -1,0 +1,40 @@
+D:\Projects\Xamarin Forms\testApp\testApp\testApp\bin\Debug\netstandard2.0\testApp.deps.json
+D:\Projects\Xamarin Forms\testApp\testApp\testApp\bin\Debug\netstandard2.0\testApp.dll
+D:\Projects\Xamarin Forms\testApp\testApp\testApp\bin\Debug\netstandard2.0\testApp.pdb
+D:\Projects\Xamarin Forms\testApp\testApp\testApp\obj\Debug\netstandard2.0\testApp.csproj.AssemblyReference.cache
+D:\Projects\Xamarin Forms\testApp\testApp\testApp\obj\Debug\netstandard2.0\testApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Xamarin Forms\testApp\testApp\testApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Projects\Xamarin Forms\testApp\testApp\testApp\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\Projects\Xamarin Forms\testApp\testApp\testApp\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\Projects\Xamarin Forms\testApp\testApp\testApp\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+D:\Projects\Xamarin Forms\testApp\testApp\testApp\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+D:\Projects\Xamarin Forms\testApp\testApp\testApp\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+D:\Projects\Xamarin Forms\testApp\testApp\testApp\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+D:\Projects\Xamarin Forms\testApp\testApp\testApp\obj\Debug\netstandard2.0\testApp.AssemblyInfoInputs.cache
+D:\Projects\Xamarin Forms\testApp\testApp\testApp\obj\Debug\netstandard2.0\testApp.AssemblyInfo.cs
+D:\Projects\Xamarin Forms\testApp\testApp\testApp\obj\Debug\netstandard2.0\testApp.csproj.CoreCompileInputs.cache
+D:\Projects\Xamarin Forms\testApp\testApp\testApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Projects\Xamarin Forms\testApp\testApp\testApp\obj\Debug\netstandard2.0\testApp.dll
+D:\Projects\Xamarin Forms\testApp\testApp\testApp\obj\Debug\netstandard2.0\refint\testApp.dll
+D:\Projects\Xamarin Forms\testApp\testApp\testApp\obj\Debug\netstandard2.0\testApp.pdb
+D:\Projects\Xamarin Forms\testApp\testApp\testApp\obj\Debug\netstandard2.0\ref\testApp.dll
+D:\Projects\Xamarin\testApp\testApp\testApp\bin\Debug\netstandard2.0\testApp.deps.json
+D:\Projects\Xamarin\testApp\testApp\testApp\bin\Debug\netstandard2.0\testApp.dll
+D:\Projects\Xamarin\testApp\testApp\testApp\bin\Debug\netstandard2.0\testApp.pdb
+D:\Projects\Xamarin\testApp\testApp\testApp\obj\Debug\netstandard2.0\testApp.csproj.AssemblyReference.cache
+D:\Projects\Xamarin\testApp\testApp\testApp\obj\Debug\netstandard2.0\testApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Xamarin\testApp\testApp\testApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Projects\Xamarin\testApp\testApp\testApp\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\Projects\Xamarin\testApp\testApp\testApp\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\Projects\Xamarin\testApp\testApp\testApp\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+D:\Projects\Xamarin\testApp\testApp\testApp\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+D:\Projects\Xamarin\testApp\testApp\testApp\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+D:\Projects\Xamarin\testApp\testApp\testApp\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+D:\Projects\Xamarin\testApp\testApp\testApp\obj\Debug\netstandard2.0\testApp.AssemblyInfoInputs.cache
+D:\Projects\Xamarin\testApp\testApp\testApp\obj\Debug\netstandard2.0\testApp.AssemblyInfo.cs
+D:\Projects\Xamarin\testApp\testApp\testApp\obj\Debug\netstandard2.0\testApp.csproj.CoreCompileInputs.cache
+D:\Projects\Xamarin\testApp\testApp\testApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Projects\Xamarin\testApp\testApp\testApp\obj\Debug\netstandard2.0\testApp.dll
+D:\Projects\Xamarin\testApp\testApp\testApp\obj\Debug\netstandard2.0\refint\testApp.dll
+D:\Projects\Xamarin\testApp\testApp\testApp\obj\Debug\netstandard2.0\testApp.pdb
+D:\Projects\Xamarin\testApp\testApp\testApp\obj\Debug\netstandard2.0\ref\testApp.dll
